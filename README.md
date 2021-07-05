@@ -10,3 +10,5 @@
 <h3>After Effects:::Premiere Pro:::Photoshop :::Illustrator </h3>
 <h2>:::Dev::: </h3>
 <h3> C++:::C#:::HTML:::CSS:::JS </h3>
+
+Instagram: @azer.pilavdzic 
