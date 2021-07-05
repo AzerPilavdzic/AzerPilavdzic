@@ -1,4 +1,4 @@
-![coverrrr](https://user-images.githubusercontent.com/60453022/124489472-5500d580-ddb1-11eb-83f5-68f1b0319c19.png)
+![coverrrr](https://user-images.githubusercontent.com/60453022/124523776-c0ba6100-ddf8-11eb-8999-a51c87a2668c.png)
 <h1> Hi there 👀, </h1>
 <h2> I'm second year student at Faculty of Information Technologies. </h2>
 <h4> Currently interested in video production, graphic and web design. </h4>
