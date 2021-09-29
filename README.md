@@ -1,6 +1,6 @@
 ![za_git_5](https://user-images.githubusercontent.com/60453022/124524799-bdc16f80-ddfc-11eb-8577-9de1a1bfc2ee.gif)
 <h1> Hi there 👀, </h1>
-<h2> I'm second year student at Faculty of Information Technologies. </h2>
+<h2> I'm third year student at Faculty of Information Technologies. </h2>
 <h4> Currently interested in video production, graphic and web design. </h4>
 <p> Willing to make high quality videos that look cinematic and fun. Full of rhythm, interesting sound effects and animations. Fast or slow unique transitions, simple but stylish call out titles with creative video frames. Modern Motion graphics that will keep the viewer's attention.</p>
 <p>Interested in learning about developing web and mobile applications.</p>
